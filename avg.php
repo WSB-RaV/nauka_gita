@@ -2,6 +2,6 @@ array_sum($values) / count($values)
 
 FUNKCJA OBLICZAJACA SREDNIA WAZONA
 
-NIE SA ZMIENIONE WAGI
+ZMIENIONE WAGI
 
 WAGA = 1
