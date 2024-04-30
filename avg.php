@@ -45,5 +45,5 @@ function srednia_wazona($tablica_liczb, $tablica_wag) {
 
 // Przykładowe użycie funkcji
 $tablica_liczb = [5, 8, 12, 4, 9];
-$tablica_wag = [1, 2, 3, 4, 5];
+$tablica_wag = [1, 2, 3, 4, 10];
 echo "Średnia ważona: " . srednia_wazona($tablica_liczb, $tablica_wag);
